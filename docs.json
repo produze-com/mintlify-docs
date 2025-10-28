@@ -20,8 +20,9 @@
       {
         "group": "Core Concepts",
         "pages": [
-          "essentials/settings",
-          "essentials/navigation"
+          "concepts/workflows",
+          "concepts/agent",
+          "essentials/workflow-library"
         ]
       },
       {
