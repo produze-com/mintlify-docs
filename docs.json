@@ -14,15 +14,15 @@
         "group": "Getting started",
         "pages": [
           "index",
-          "quickstart",
-          "development"
+          "quickstart"
         ]
       },
       {
-        "group": "Customization",
+        "group": "Core Concepts",
         "pages": [
-          "essentials/settings",
-          "essentials/navigation"
+          "concepts/workflows",
+          "concepts/agent",
+          "essentials/workflow-library"
         ]
       },
       {
