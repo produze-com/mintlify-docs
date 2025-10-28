@@ -1,0 +1,64 @@
+---
+title: "Workflows"
+---
+
+A workflow is an automation consisting of sequential steps that fetch data, perform analysis, and execute actions. Think of it as your personal Amazon assistant following a process you've created.
+
+You can build your own workflows using the Agent or use popular workflows from the Workflow Library.
+
+#### **Workflow Capabilities**
+
+**Data Fetching:**
+
+- **Seller Central**: Pull metrics, reports, and account data via API
+- **Amazon Shopper Site**: Collect data from competitor listings, search results, and category nodes
+- **Google Sheets**: Access data like inventory levels, COGS, and custom data
+- **Jungle Scout**: Get competitor ranking keywords, their ranks, and search volumes
+- **Keepa**: Retrieve historical BSR, pricing, and sales estimates
+
+**Actions & Outputs:**
+
+- Update listings (titles, bullets, descriptions)
+- Manage PPC (launch campaigns, adjust bids, add negatives)
+- Adjust pricing dynamically
+- Generate tabular dashboards with analytics
+
+#### **Workflow Examples**
+
+**Example 1: Add Negative Exact for Irrelevant Search Terms With High Clicks**
+
+1. Identify search terms with zero sales and clicks above the campaign conversion threshold
+2. Check if the search terms are relevant to my product
+3. Check if my advertised product is competitive with other search results for this search term
+4. If keywords are not relevant or the advertised product is not competitive, add this search term as a negative exact in the ad group
+
+(screenshot of output)
+
+**Example 2: Identify Image Improvement Insights From Competitor Images**
+
+1. Identify the top 10 competitors for my ASIN
+2. Analyze my product and competitor product reviews to see what customers value most
+3. Compare my images with competitors' to identify what competitors highlight that's missing in my listing and overlaps with what customers value most
+4. Provide suggestions on what to improve in my images for better conversion
+
+(screenshot of output)
+
+**Example 3: Inventory Dispatch Recommendations**
+
+1. Get the latest inventory level in Amazon for my ASINs
+2. Get the highest sales run rate by looking at sales for the last 7, 30, and 60 days
+3. Consider my minimum days of inventory required in Amazon as 45 days and transit to Amazon as 30 days
+4. Check how much inventory is available in my own warehouse from this Google Sheet (Google Sheet link)
+5. Based on current inventory level, sales run rate, and minimum days of inventory, recommend how much inventory needs to be dispatched
+
+(screenshot of output)
+
+**Example 4: Reprice Products Based on Inventory Levels**
+
+1. Get the latest inventory level in Amazon for my ASINs
+2. Get the highest sales run rate by looking at sales for the last 7, 30, and 60 days
+3. If inventory days are above 90 days, reduce price by 10%
+4. If inventory days are below 30 days, increase price by 10%
+5. Execute the price change on Amazon
+
+(screenshot)
