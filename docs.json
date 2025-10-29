@@ -13,8 +13,8 @@
       {
         "group": "Getting started",
         "pages": [
-          "index",
-          "quickstart"
+          "getting-started/index",
+          "getting-started/first-workflow"
         ]
       },
       {
