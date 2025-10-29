@@ -28,7 +28,7 @@
         ]
       },
       {
-        "group": "Writing content",
+        "group": "Features",
         "pages": [
           "essentials/markdown",
           "essentials/code",
@@ -47,8 +47,8 @@
     ]
   },
   "logo": {
-    "light": "images/superfuel-logo-blacktext.svg",
-    "dark": "images/superfuel-logo-whitetext.svg"
+    "light": "images/superfuel_logo_blacktext.svg",
+    "dark": "images/superfuel_logo_whitetext.svg"
   },
   "navbar": {
     "links": [
