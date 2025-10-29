@@ -22,7 +22,7 @@
         "group": "Core Concepts",
         "pages": [
           "concepts/workflows",
-          "essentials/workflow-library",
+          "concepts/workflow-library",
           "concepts/agent"
           
         ]
