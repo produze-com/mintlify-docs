@@ -35,7 +35,7 @@
         ]
       },
       {
-        "group": "AI tools",
+        "group": "AI tools - test",
         "pages": [
           "ai-tools/cursor",
           "ai-tools/claude-code",
