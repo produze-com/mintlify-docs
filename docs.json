@@ -47,7 +47,7 @@
   },
   "logo": {
     "light": "images/superfuel-logo-blacktext.svg",
-    "dark": "images/superfuel-logo-blacktext.svg"
+    "dark": "images/superfuel-logo-whitetext.svg"
   },
   "navbar": {
     "links": [
