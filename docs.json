@@ -7,7 +7,7 @@
     "light": "#67C0E1",
     "dark": "#006B94"
   },
-  "favicon": "/favicon.svg",
+  "favicon": "images/favicon.svg",
   "navigation": {
     "groups": [
       {
@@ -46,8 +46,8 @@
     ]
   },
   "logo": {
-    "light": "/logo/light.svg",
-    "dark": "/logo/dark.svg"
+    "light": "images/superfuel-logo-blacktext.svg",
+    "dark": "images/superfuel-logo-blacktext.svg"
   },
   "navbar": {
     "links": [
