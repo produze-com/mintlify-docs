@@ -19,7 +19,7 @@
         ]
       },
       {
-        "group": "Core Concepts",
+        "group": "Core concepts",
         "pages": [
           "concepts/workflows",
           "concepts/workflow-library",
@@ -37,7 +37,7 @@
         ]
       },
       {
-        "group": "More Resources",
+        "group": "More resources",
         "pages": [
           "more-resources/success-stories",
           "more-resources/popular-usecases",
