@@ -30,18 +30,20 @@
       {
         "group": "Features",
         "pages": [
-          "essentials/markdown",
-          "essentials/code",
-          "essentials/images",
-          "essentials/reusable-snippets"
+          "features/workflow-output-actions",
+          "features/editing-workflow",
+          "features/scheduling-workflow",
+          "features/execution-trace"
         ]
       },
       {
-        "group": "AI tools - test",
+        "group": "More Resources",
         "pages": [
-          "ai-tools/cursor",
-          "ai-tools/claude-code",
-          "ai-tools/windsurf"
+          "more-resources/success-stories",
+          "more-resources/popular-usecases",
+          "more-resources/amazon-api",
+          "more-resources/support"
+          
         ]
       }
     ]
