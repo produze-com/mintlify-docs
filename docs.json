@@ -33,7 +33,8 @@
           "features/workflow-output-actions",
           "features/editing-workflow",
           "features/scheduling-workflow",
-          "features/execution-trace"
+          "features/execution-trace",
+          "features/agent-data"
         ]
       },
       {
