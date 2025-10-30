@@ -11,26 +11,28 @@
   "navigation": {
     "groups": [
       {
-        "group": "Getting started",
+        "group": "Welcome",
         "pages": [
           "getting-started/index",
-          "getting-started/connect-account",
-          "getting-started/first-workflow"
+          "getting-started/connect-account"
         ]
       },
       {
-        "group": "Core concepts",
+        "group": "Getting started",
         "pages": [
           "concepts/workflows",
+          "getting-started/first-workflow",
+          "features/workflow-output-actions",
           "concepts/workflow-library",
-          "concepts/agent"
+          "concepts/agent",
+          "more-resources/popular-usecases"
           
         ]
       },
       {
         "group": "Features",
         "pages": [
-          "features/workflow-output-actions",
+          
           "features/editing-workflow",
           "features/scheduling-workflow",
           "features/execution-trace",
@@ -41,7 +43,6 @@
         "group": "More resources",
         "pages": [
           "more-resources/success-stories",
-          "more-resources/popular-usecases",
           "more-resources/support"
           
         ]
